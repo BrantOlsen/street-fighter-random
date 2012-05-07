@@ -31,6 +31,11 @@ function load() {
         listOfCharacters.push(new Char('Chun Li'));
         listOfCharacters.push(new Char('Zangief'));
         listOfCharacters.push(new Char('Gouken'));
+        listOfCharacters.push(new Char('Seth'));
+        listOfCharacters.push(new Char('Adon'));
+        listOfCharacters.push(new Char(''));
+        listOfCharacters.push(new Char('Gouken'));
+        listOfCharacters.push(new Char('Gouken'));
     }
 }
 
