@@ -1,0 +1,38 @@
+body {
+ width: 50%;
+ margin: 0px auto;
+ font-size: 1.3em;    
+}
+
+span {
+    padding: 10px;
+    margin: 5px;
+    display: inline-block;
+}
+
+#used {
+   padding: 20px 0px 20px 0px;
+   white-space: pre-wrap;
+}
+
+#used span {
+    background-color: rgb(200, 55, 70);
+}
+
+#not_used span {
+    background-color: rgb(10, 163, 255);
+}
+
+#actions {
+    text-align: center;
+}
+
+#play_with {
+    background-color: rgb(205, 219, 35);
+    display:none;
+}
+
+#random {
+    padding: 50px;
+}
+
