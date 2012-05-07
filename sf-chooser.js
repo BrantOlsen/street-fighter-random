@@ -33,9 +33,33 @@ function load() {
         listOfCharacters.push(new Char('Gouken'));
         listOfCharacters.push(new Char('Seth'));
         listOfCharacters.push(new Char('Adon'));
-        listOfCharacters.push(new Char(''));
-        listOfCharacters.push(new Char('Gouken'));
-        listOfCharacters.push(new Char('Gouken'));
+        listOfCharacters.push(new Char('Gen'));
+        listOfCharacters.push(new Char('Sagat'));
+        listOfCharacters.push(new Char('Akuma'));
+        listOfCharacters.push(new Char('Balrog'));
+        listOfCharacters.push(new Char('Blanka'));
+        listOfCharacters.push(new Char('Dee Jay'));
+        listOfCharacters.push(new Char('Dhalsim'));
+        listOfCharacters.push(new Char('E. Honda'));
+        listOfCharacters.push(new Char('Fei Long'));
+        listOfCharacters.push(new Char('Guile'));
+        listOfCharacters.push(new Char('M. Bison'));
+        listOfCharacters.push(new Char('T. Hawk'));
+        listOfCharacters.push(new Char('Cammy'));
+        listOfCharacters.push(new Char('Vega'));
+        listOfCharacters.push(new Char('Cody'));
+        listOfCharacters.push(new Char('Dan'));
+        listOfCharacters.push(new Char('Guy'));
+        listOfCharacters.push(new Char('Rose'));
+        listOfCharacters.push(new Char('Sakura'));
+        listOfCharacters.push(new Char('Dudley'));
+        listOfCharacters.push(new Char('Ibuki'));
+        listOfCharacters.push(new Char('Makoto'));
+        listOfCharacters.push(new Char('Abel'));
+        listOfCharacters.push(new Char('C. Viper'));
+        listOfCharacters.push(new Char('Hakan'));
+        listOfCharacters.push(new Char('Juri'));
+        listOfCharacters.push(new Char('Rufus'));
     }
 }
 
